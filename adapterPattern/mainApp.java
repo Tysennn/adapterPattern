@@ -1,6 +1,7 @@
-package adapterpattern;
+package adapterPattern;
 
-public class Main {
+
+public class mainApp {
     public static void main(String[] args) {
         PowerStrip strip = new PowerStrip();
  

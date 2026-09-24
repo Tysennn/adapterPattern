@@ -1,6 +1,4 @@
-package adapterPattern.Adapters;
-
-import adapterPattern.*;
+package adapterPattern;
 
 public class SmartphoneAdapter implements PowerOutlet {
     private final SmartphoneCharger charger;

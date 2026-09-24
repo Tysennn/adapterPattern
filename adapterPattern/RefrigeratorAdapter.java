@@ -1,6 +1,5 @@
-package adapterPattern.Adapters;
+package adapterPattern;
 
-import
 public class RefrigeratorAdapter implements PowerOutlet {
     private final Refrigerator refrigerator;
 
