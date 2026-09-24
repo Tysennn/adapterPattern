@@ -1,7 +1,4 @@
-package adapterpattern;
- 
-// ===================== Target =====================
-// The common interface every device must present to the power outlet.
+package adapterPattern;
 public interface PowerOutlet {
     void plugIn();
 }

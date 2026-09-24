@@ -1,7 +1,4 @@
-package adapterpattern;
-
-// ===================== Adapter =====================
-// Wraps a Laptop and exposes it through PowerOutlet.
+package adapterPattern;
 public class LaptopAdapter implements PowerOutlet {
     private final Laptop laptop;
 

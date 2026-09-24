@@ -1,11 +1,12 @@
-package adapterpattern;
+package adapterPattern.Adapters;
 
-// ===================== Adapter =====================
+import adapterPattern.*;
+
 public class SmartphoneAdapter implements PowerOutlet {
     private final SmartphoneCharger charger;
 
     public SmartphoneAdapter(SmartphoneCharger charger) {
-        this.charger = charger;
+        this.charger = charger; 
     }
 
     @Override
