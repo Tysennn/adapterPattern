@@ -17,4 +17,4 @@ You are developing an application that helps users manage and control various el
  
 # UML Diagram
 
-<img src="src/UML Diagram.png">
+<img src="src/UML_Diagram.png">
