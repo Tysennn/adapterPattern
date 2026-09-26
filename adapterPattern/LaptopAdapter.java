@@ -7,7 +7,6 @@ public class LaptopAdapter implements PowerOutlet {
  
     @Override
     public void plugIn() {
-        // Translate the generic plugIn() call into the laptop-specific charge()
         laptop.charge();
     }
 }
